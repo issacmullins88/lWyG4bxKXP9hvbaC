@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: pgv2aos5.zqt5rl8f@9s2rjsgi.com
     createdAt: '2024-09-16 13:47:45'
     configurations:
-      pipelineConfigurations/angel.miller/Shaun_MuellerBertha_D__BluesPhilip_Treutel/dev:
-        name: dev
-        author: null
-        createdAt: '2024-09-16 13:47:45'
       pipelineConfigurations/angel.miller/Shaun_MuellerBertha_D__BluesPhilip_Treutel/dev2:
         name: dev2
-        author: null
-        createdAt: '2024-09-16 13:47:45'
-      pipelineConfigurations/angel.miller/Shaun_MuellerBertha_D__BluesPhilip_Treutel/dev3:
-        name: dev3
         author: null
         createdAt: '2024-09-16 13:47:45'
     basePipeline: 27/pipelines/Shaun_MuellerBertha_D__BluesPhilip_Treutel
