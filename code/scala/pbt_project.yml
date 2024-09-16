@@ -1,0 +1,74 @@
+name: iris.bednar
+description: eco-centric
+version: 0.0.1
+author: pgv2aos5.zqt5rl8f@9s2rjsgi.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: irisbednar
+  parentArtefactID: pgv2aos5zqt5rl8f9s2rjsgicomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2024-09-16 13:47:44'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-09-16 13:47:44'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-09-16T13:47:44.539406Z'
+  name: plibMaven
+  version: 8.3.0-SNAPSHOT
+  id: '33939954'
+  createdAt: '2024-09-16T13:47:44.539406Z'
+  type: plibMaven
+projectDependencies:
+  '27':
+    projectUID: 27
+    projectName: angel.miller
+    repositoryPath: gitUri=http://gitserver:3000/dev_M6VVKiIT_team_105/dev_M6VVKiIT_project_27.git&subPath=
+    version: angel.miller/0.54.499
+    isDefault: false
+    author: null
+    createdAt: '2024-09-16 13:47:44'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/angel.miller/Shaun_MuellerBertha_D__BluesPhilip_Treutel:
+    author: pgv2aos5.zqt5rl8f@9s2rjsgi.com
+    createdAt: '2024-09-16 13:47:45'
+    configurations:
+      pipelineConfigurations/angel.miller/Shaun_MuellerBertha_D__BluesPhilip_Treutel/dev:
+        name: dev
+        author: null
+        createdAt: '2024-09-16 13:47:45'
+      pipelineConfigurations/angel.miller/Shaun_MuellerBertha_D__BluesPhilip_Treutel/dev2:
+        name: dev2
+        author: null
+        createdAt: '2024-09-16 13:47:45'
+      pipelineConfigurations/angel.miller/Shaun_MuellerBertha_D__BluesPhilip_Treutel/dev3:
+        name: dev3
+        author: null
+        createdAt: '2024-09-16 13:47:45'
+    basePipeline: 27/pipelines/Shaun_MuellerBertha_D__BluesPhilip_Treutel
